@@ -17,7 +17,7 @@ To reproduce the analysis:
 
 1. Download the "SIMD_2020" and "boundaries" folder using the link above.
 
-2. Ensure the folders are both saved in the "data folder"
+2. Ensure the folders are both saved in the "data" folder
 
 3. Keep the notebook and data folders in their original  locations.
 
