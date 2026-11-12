@@ -4,7 +4,7 @@ This is a Repository that includes the material and labs required for Assignment
 
 ## Consider
 
-* The /data folder contains the datasets required for the analysis. Some large geographical datasets may not be included in the repository due to GitHub file-size limitations. Follow the instructions below to obtain any missing datasets.
+* The /data folder contains most of the datasets required for the analysis. Some large geographical datasets may not be included in the repository due to GitHub file-size limitations. Follow the instructions below to obtain any missing datasets.
 * You must install the `ua.yml` environmental file to get all the required libraries.
 
 ## Data and Reproducibility
